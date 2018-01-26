@@ -1,0 +1,19 @@
+{
+    "name": "zhangrxiang/heroku-php",
+    "description": "heroku php",
+    "type": "project",
+    "require": {
+        "composer/composer": "^1.6",
+        "knplabs/github-api": "^2.7@dev",
+        "php-http/guzzle6-adapter": "^1.2@dev",
+        "philo/laravel-blade": "dev-master"
+    },
+    "license": "apache",
+    "authors": [
+        {
+            "name": "zhangrxiang",
+            "email": "599490911@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
